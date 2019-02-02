@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cafeteria Management System</string>
+    <string name="student_id_editText_hint">Student ID</string>
+    <string name="login">Login</string>
+    <string name="vendorLoginButton">Login as Vendor</string>
+
+
+</resources>
